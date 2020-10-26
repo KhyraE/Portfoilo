@@ -1,14 +1,3 @@
-# Run Buddy
-
-## Purpose
-A website that offers fitness training services.
-
-## Built With
-* HTML
-* CSS
-
-## Website
-https://lernantino.github.io/run-buddy/
-
-## Contribution
-Made with ❤️ by Khyra Everette
+# Portfoilo
+The goal was to put together a portfoilo that showcasing my talents as a developer.
+I'm not sure why the url doesn't replciplate what I see from the code.
